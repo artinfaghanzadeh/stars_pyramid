@@ -5,7 +5,7 @@ Visit Linkedin page using this address : https://www.linkedin.com/in/artin-fagha
 
 ## 1 - What the project does?
 
-*This project is a fun project that printing stars("*") like pyramid*
+*This project is a fun project that printing stars("***") like pyramid*
 
 ## 2 - Why the project is useful?
 
